@@ -7,6 +7,6 @@ absl-py
 ray[rllib]==2.46.0
 natsort
 pre-commit
-pyarrow==19.0.1
+pyarrow==23.0.1
 torch==2.5.1
 wandb==0.20.1
