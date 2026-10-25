@@ -8,5 +8,5 @@ ray[rllib]==2.46.0
 natsort
 pre-commit
 pyarrow==19.0.1
-torch==2.5.1
+torch==2.13.0
 wandb==0.20.1
